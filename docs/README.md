@@ -1,6 +1,6 @@
 # Jon's Mech RPG
 
-> An awesome project, brought to you by Pantone's color of 2007
+> An awesome project, brought to you by Jon & Pantone's color of 2007
 
 
 You can see the source code for this site at:
