@@ -3,7 +3,7 @@
 > An awesome project, brought to you by Jon & Pantone's color of 2007
 
 
-You can see the source code for this site at:
+You can see the source code for this site at: https://github.com/ShrikeFound/mech-rpg
 
 You can make edits to the document itself and make a pull request the same way we did when working on GMF. **This is more robust and more difficult to break**, though, so don't worry about making a new branch unless you're trying out different versions of your lore/rules. The changes won't go through until I've accepted them so don't be surprised if it's not instant.
 
